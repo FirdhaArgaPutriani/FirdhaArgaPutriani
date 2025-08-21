@@ -15,7 +15,7 @@ Open to **freelance, remote, or part-time opportunities** in web development and
 
 ### 🖥️ Projects
 - 🌦️ [Weather App](https://github.com/FirdhaArgaPutriani/Weather_JavaSricpt) – Simple weather forecast app using API  
-- ✅ [To-Do List](https://github.com/FirdhaArgaPutriani/todo-list) – Task management app with HTML, CSS, JS  
+- ✅ [Cryptocurrency Web](https://github.com/FirdhaArgaPutriani/cryptocurrency_web_js) – Simple cryptocurrency website using API
 - 📊 [Data Prediction System (Dione)](https://github.com/FirdhaArgaPutriani/skripsiV6) – Monte Carlo-based prediction for non-timber forest products
 - 🗂️ [CRUD Web App (PPM)](https://github.com/FirdhaArgaPutriani/ppmnew)– Internship project for managing data with authentication & CRUD functionality.
 - ⚖️ [SPK Moora](https://github.com/FirdhaArgaPutriani/SPK-MOORA) – Decision support system using MOORA method for multi-criteria decision making
