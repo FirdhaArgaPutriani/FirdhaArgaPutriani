@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Firdha Arga Putriani  
 
-<!--
-**FirdhaArgaPutriani/FirdhaArgaPutriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web & Mobile Developer | Data Analyst | Database Optimization & System Development  
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I’m passionate about building web applications and optimizing databases to improve system performance.  
+Currently exploring **mobile development** and learning **Data Science & AI** to expand my technical expertise.  
+Open to **freelance, remote, or part-time opportunities** in web development and data analysis.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Skills
+- **Frontend:** HTML, CSS, JavaScript, Vue.js (Learning)  
+- **Backend:** PHP, Laravel  
+- **Database:** MySQL, SQL Server, Database Optimization  
+- **Other:** Data Analysis, Git/GitHub  
+
+### 📫 Get in Touch
+- 📧 Email: firdha.arga21@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/firdhaarga](https://linkedin.com/in/firdhaarga)  
