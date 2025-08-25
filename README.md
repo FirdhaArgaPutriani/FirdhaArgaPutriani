@@ -8,10 +8,11 @@ Currently exploring **mobile development** and learning **Data Science & AI** to
 Open to **freelance, remote, or part-time opportunities** in web development and data analysis.  
 
 ### 📌 Skills
-- **Frontend:** HTML, CSS, JavaScript, Vue.js (Learning)  
-- **Backend:** PHP, Laravel  
+- **Frontend:** HTML, CSS, JavaScript, Vue.js (Learning), Vite (Learning), Tailwind (Learning)
+- **Backend:** PHP, Laravel
+- **Mobile:** Dart, Flutter
 - **Database:** MySQL, SQL Server, Database Optimization  
-- **Other:** Data Analysis, Git/GitHub
+- **Other:** Data Analysis, Git/GitHub, API
 
 ### 🖥️ Projects
 - 🌦️ [Weather App](https://github.com/FirdhaArgaPutriani/Weather_JavaSricpt) – Simple weather forecast app using API  
