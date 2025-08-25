@@ -11,8 +11,9 @@ Open to **freelance, remote, or part-time opportunities** in web development and
 - **Frontend:** HTML, CSS, JavaScript, Vue.js (Learning), Vite (Learning), Tailwind (Learning)
 - **Backend:** PHP, Laravel
 - **Mobile:** Dart, Flutter
-- **Database:** MySQL, SQL Server, Database Optimization  
-- **Other:** Data Analysis, Git/GitHub, API
+- **Database:** MySQL, SQL Server, Database Optimization
+- **QA / Testing:** Manual Testing, Test Case Design, Bug Tracking, Cypress (Automation)
+- **Other:** Data Analysis, Git/GitHub, API, Cypress
 
 ### 🖥️ Projects
 - 🌦️ [Weather App](https://github.com/FirdhaArgaPutriani/Weather_JavaSricpt) – Simple weather forecast app using API  
@@ -20,6 +21,7 @@ Open to **freelance, remote, or part-time opportunities** in web development and
 - 📊 [Data Prediction System (Dione)](https://github.com/FirdhaArgaPutriani/skripsiV6) – Monte Carlo-based prediction for non-timber forest products
 - 🗂️ [CRUD Web App (PPM)](https://github.com/FirdhaArgaPutriani/ppmnew)– Internship project for managing data with authentication & CRUD functionality.
 - ⚖️ [SPK Moora](https://github.com/FirdhaArgaPutriani/SPK-MOORA) – Decision support system using MOORA method for multi-criteria decision making
+- 🔍 [QA Portfolio](https://docs.google.com/spreadsheets/d/1rdOQ97uFBfsarIImhl0-wI9ZmBiB0lr6/edit?usp=sharing&ouid=106694119048487273739&rtpof=true&sd=true) - Collection of test cases, bug reports, and automation scripts
 
 ### 📫 Get in Touch
 - 📧 Email: firdha.arga21@gmail.com  
