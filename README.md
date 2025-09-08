@@ -8,7 +8,7 @@ Currently exploring **mobile development** and learning **Data Science & AI** to
 Open to **freelance, remote, or part-time opportunities** in web development and data analysis.  
 
 ### 📌 Skills
-- **Frontend:** HTML, CSS, JavaScript, Vue.js (Learning), Vite (Learning), Tailwind (Learning)
+- **Frontend:** HTML, CSS, JavaScript, Vue.js, Vite, and Tailwind
 - **Backend:** PHP, Laravel
 - **Mobile:** Dart, Flutter
 - **Database:** MySQL, SQL Server, Database Optimization
