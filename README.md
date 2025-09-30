@@ -16,6 +16,7 @@ Open to **freelance, remote, or part-time opportunities** in web development and
 - **Other:** Data Analysis, Git/GitHub, API, Cypress
 
 ### 🖥️ Projects
+- 📱 [LSP Our Money](https://github.com/FirdhaArgaPutriani/LSP-OurMoney) - Simple mobile apps using database 
 - 🌦️ [Weather App](https://github.com/FirdhaArgaPutriani/Weather_JavaSricpt) – Simple weather forecast app using API  
 - ✅ [Cryptocurrency Web](https://github.com/FirdhaArgaPutriani/cryptocurrency_web_js) – Simple cryptocurrency website using API
 - 📊 [Data Prediction System (Dione)](https://github.com/FirdhaArgaPutriani/skripsiV6) – Monte Carlo-based prediction for non-timber forest products
