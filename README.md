@@ -3,13 +3,11 @@
 💻 Aspiring Web & Mobile Developer | Database Optimization & System Development | Software Tester | Game Developer
 
 ### 🚀 About Me
-I’m passionate about building web applications and optimizing databases to improve system performance.  
-Currently exploring **mobile development** and learning **Data Science & AI** to expand my technical expertise.  
-Open to **freelance, remote, or part-time opportunities** in web development and data analysis.  
+I’m passionate about building web applications and optimizing databases to improve system performance. Currently exploring **mobile development** and learning **Data Science & AI** to expand my technical expertise. Open to **freelance, remote, or part-time opportunities** in web development and data analysis.  
 
 ### 📌 Skills
 - **Frontend:** HTML, CSS, JavaScript, Vue.js, Vite, and Tailwind
-- **Backend:** PHP, Laravel
+- **Backend:** PHP, Laravel, Java, C#
 - **Mobile:** Dart, Flutter
 - **Database:** MySQL, SQL Server, Database Optimization
 - **QA / Testing:** Manual Testing, Test Case Design, Bug Tracking, Cypress (Automation)
