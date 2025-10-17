@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Firdha Arga Putriani  
 
-💻 Aspiring Web & Mobile Developer | Database Optimization & System Development | Software Tester
+💻 Aspiring Web & Mobile Developer | Database Optimization & System Development | Software Tester | Game Developer
 
 ### 🚀 About Me
 I’m passionate about building web applications and optimizing databases to improve system performance.  
